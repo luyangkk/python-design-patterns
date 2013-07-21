@@ -1,7 +1,7 @@
 '''
 Created on 2013-3-16
 
-@author: luyang
+@author: luyangkk
 '''
 
 class Singleton:

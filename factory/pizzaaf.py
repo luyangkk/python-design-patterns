@@ -1,7 +1,7 @@
 '''
 Created on 2013-3-27
 
-@author: luyang
+@author: luyangkk
 '''
 
 class Dough:

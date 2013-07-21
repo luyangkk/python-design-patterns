@@ -1,7 +1,7 @@
 '''
 Created on 2013-2-19
 
-@author: luyang
+@author: luyangkk
 '''
 
 class FlyBehavior:

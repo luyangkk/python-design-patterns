@@ -1,7 +1,7 @@
 '''
 Created on 2013-3-12
 
-@author: luyang
+@author: luyangkk
 '''
 
 class Beverage:
@@ -120,3 +120,4 @@ if __name__ == '__main__':
   beverage3 = Mocha(beverage3)
   beverage3 = Whip(beverage3)
   print beverage3.getDescription() + ' $' + str(beverage3.cost())
+  
